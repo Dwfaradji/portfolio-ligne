@@ -80,18 +80,11 @@ a[data-v-58a030f0] {
 }
 h1[data-v-1d92f8c5],
 p[data-v-1d92f8c5] {
-  text-align: center;
-  position: relative;
-  bottom: 40em;
-  display: flex;
-  justify-content: center;
   color: #fff;
-  font-size: 2rem;
-
 }
 h1[data-v-1d92f8c5] {
   color: #000;
-  font-size: 3.5rem;
+  /* font-size: 3.5rem; */
 }
 .carousel[data-v-1d92f8c5] {
   position: relative;
@@ -396,6 +389,8 @@ li {
 }
 .picture1 {
   background-image: url(../img/bg-2.4afbe92f.jpg);
+  width: 100%;
+  height: 300px;
 }
 .picture2 {
   background-image: url(../img/bg-1.9951c9d0.jpg);
