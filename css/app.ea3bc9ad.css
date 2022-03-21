@@ -82,12 +82,12 @@ h1[data-v-1d92f8c5],
 p[data-v-1d92f8c5] {
   text-align: center;
   position: relative;
-  bottom: 22em;
+  bottom: 40em;
   display: flex;
   justify-content: center;
   color: #fff;
   font-size: 2rem;
-  border: 1px solid black;
+
 }
 h1[data-v-1d92f8c5] {
   color: #000;
