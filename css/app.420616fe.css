@@ -91,6 +91,8 @@ a[data-v-58a030f0] {
 h1[data-v-4c4c889e] {
   color: #000;
   font-size: 3rem;
+  width: 60%;
+  margin: 0 auto 0 auto;
 }
 .carousel[data-v-4c4c889e] {
   position: relative;
