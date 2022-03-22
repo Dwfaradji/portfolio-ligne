@@ -394,7 +394,7 @@ li {
 .img-fond {
   background-attachment: fixed;
   height: 300px;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 .picture1 {
