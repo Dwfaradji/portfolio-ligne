@@ -87,6 +87,7 @@ a[data-v-58a030f0] {
   z-index: 1000;
   width: 60%;
   margin: 0 auto 0 auto;
+  border: 1px solid black;
 }
 h1[data-v-4c4c889e] {
   color: #000;
