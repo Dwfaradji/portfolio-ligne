@@ -408,11 +408,11 @@ li {
 .img-fond {
   background-attachment: fixed;
   height: 300px;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 .picture1 {
-  background-image: url(../img/bg-2.4afbe92f.jpg);
+  background-image: url(./img/bg-2.4afbe92f.jpg);
 }
 .picture2 {
   background-image: url(../img/bg-1.9951c9d0.jpg);
